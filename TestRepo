@@ -10,6 +10,9 @@ Welcome to Ubuntu 18.04 LTS (GNU/Linux 4.15.0-20-generic x86_68)
  * Documentation:  https://help.ubuntu.com
  * Management:     https://landscape.canonical.com
  * Support:        https://ubuntu.com/advantage
+ Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
 
 
  * Canonical Livepatch is available for installation.
@@ -18,7 +21,8 @@ Welcome to Ubuntu 18.04 LTS (GNU/Linux 4.15.0-20-generic x86_68)
 
 148 packages can be updated.
 72 updates are security updates.
-
+300 packages can be updated.
+300 updates are security updates.
 Last login: Wed Jun 20 18:25:35 2018 from 192.168.244.1
 
 ]0;hassan@ubuntu: ~hassan@ubuntu:~$ clear
